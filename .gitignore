@@ -1,0 +1,17 @@
+*.opendb
+*.suo
+*.db
+*.sdf
+ipch
+build
+.vs
+x64
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.exp
+GeneratedFiles
+/.vs/
+
+
